@@ -1,0 +1,1 @@
+# ts-rapier-renderer-vite-template
